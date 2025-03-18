@@ -1,0 +1,50 @@
+Name: "Laptop 1", Category: "Electronics", Price: 56000
+Name: "Smartphone X1", Category: "Electronics", Price: 30000
+Name: "Refrigerator A1", Category: "Home Appliances", Price: 45000
+Name: "Sofa B1", Category: "Furniture", Price: 25000
+Name: "T-Shirt C1", Category: "Clothing", Price: 1500
+Name: "Book D1", Category: "Books", Price: 800
+Name: "Headphones E1", Category: "Electronics", Price: 7000
+Name: "Desk F1", Category: "Furniture", Price: 18000
+Name: "Jeans G1", Category: "Clothing", Price: 3000
+Name: "Coffee Maker H1", Category: "Home Appliances", Price: 5000
+Name: "Laptop 2", Category: "Electronics", Price: 57000
+Name: "Smartphone X2", Category: "Electronics", Price: 31000
+Name: "Refrigerator A2", Category: "Home Appliances", Price: 46000
+Name: "Sofa B2", Category: "Furniture", Price: 26000
+Name: "T-Shirt C2", Category: "Clothing", Price: 1600
+Name: "Book D2", Category: "Books", Price: 900
+Name: "Headphones E2", Category: "Electronics", Price: 7200
+Name: "Desk F2", Category: "Furniture", Price: 19000
+Name: "Jeans G2", Category: "Clothing", Price: 3100
+Name: "Coffee Maker H2", Category: "Home Appliances", Price: 5200
+Name: "Laptop 3", Category: "Electronics", Price: 58000
+Name: "Smartphone X3", Category: "Electronics", Price: 32000
+Name: "Refrigerator A3", Category: "Home Appliances", Price: 47000
+Name: "Sofa B3", Category: "Furniture", Price: 27000
+Name: "T-Shirt C3", Category: "Clothing", Price: 1700
+Name: "Book D3", Category: "Books", Price: 1000
+Name: "Headphones E3", Category: "Electronics", Price: 7400
+Name: "Desk F3", Category: "Furniture", Price: 20000
+Name: "Jeans G3", Category: "Clothing", Price: 3200
+Name: "Coffee Maker H3", Category: "Home Appliances", Price: 5400
+Name: "Laptop 4", Category: "Electronics", Price: 59000
+Name: "Smartphone X4", Category: "Electronics", Price: 33000
+Name: "Refrigerator A4", Category: "Home Appliances", Price: 48000
+Name: "Sofa B4", Category: "Furniture", Price: 28000
+Name: "T-Shirt C4", Category: "Clothing", Price: 1800
+Name: "Book D4", Category: "Books", Price: 1100
+Name: "Headphones E4", Category: "Electronics", Price: 7600
+Name: "Desk F4", Category: "Furniture", Price: 21000
+Name: "Jeans G4", Category: "Clothing", Price: 3300
+Name: "Coffee Maker H4", Category: "Home Appliances", Price: 5600
+Name: "Laptop 5", Category: "Electronics", Price: 60000
+Name: "Smartphone X5", Category: "Electronics", Price: 34000
+Name: "Refrigerator A5", Category: "Home Appliances", Price: 49000
+Name: "Sofa B5", Category: "Furniture", Price: 29000
+Name: "T-Shirt C5", Category: "Clothing", Price: 1900
+Name: "Book D5", Category: "Books", Price: 1200
+Name: "Headphones E5", Category: "Electronics", Price: 7800
+Name: "Desk F5", Category: "Furniture", Price: 22000
+Name: "Jeans G5", Category: "Clothing", Price: 3400
+Name: "Coffee Maker H5", Category: "Home Appliances", Price: 5800

@@ -1,0 +1,34 @@
+# Результаты сборки
+bin/
+obj/
+
+# Настройки IDE и редакторов
+.vs/
+.vscode/
+*.user
+*.suo
+*.userprefs
+*.vsp
+
+# Файлы пакетов NuGet
+packages/
+*.nupkg
+NuGet.exe
+
+# Локальные настройки и кэши
+.localhistory/
+*.cache
+
+# Файлы резервных копий
+*.bak
+*.tmp
+
+# Файлы тестовых покрытий и инструментов
+coverage*.json
+coverage*.xml
+*.coverage
+TestResults/
+
+# Специфичные для .NET
+.DotSettings
+*.swp
